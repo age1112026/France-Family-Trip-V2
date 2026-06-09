@@ -1,0 +1,3053 @@
+[
+  {
+    "id": "poi_eiffel_tower",
+    "slug": "eiffel-tower",
+    "name": "埃菲尔铁塔",
+    "name_local": "Tour Eiffel",
+    "city_region": "Paris",
+    "categories": [
+      "历史文化",
+      "艺术建筑"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低",
+      "需要提前预约"
+    ],
+    "classic_level": "大众经典",
+    "short_intro": "巴黎第一眼符号，适合安排在抵达巴黎后的傍晚或夜景时段。",
+    "editor_reason": "经典程度过高，但第一次家庭巴黎行很难完全跳过；如果选择登塔，建议只把它当作一个明确预约项目。",
+    "caution_reason": "排队、安检和人流都明显，登塔体验受天气和预约时段影响。",
+    "suggested_duration": "1.5-2.5 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；官方票务通常建议提前购票。",
+    "price_level": "待核实，以官方票务为准",
+    "official_url": "https://www.toureiffel.paris/en",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Tour+Eiffel+Paris",
+    "source_urls": [
+      "https://www.toureiffel.paris/en",
+      "https://ticket.toureiffel.paris/en"
+    ],
+    "review_summary": "普遍认为夜景和远眺有仪式感，但排队和拥挤是主要扣分点。",
+    "editor_note": "如果只想看塔，战神广场或特罗卡德罗外观即可。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": false,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tour_Eiffel_Wikimedia_Commons.jpg?width=1200",
+        "alt": "埃菲尔铁塔外观",
+        "caption": "埃菲尔铁塔外观参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "官方网站",
+        "url": "https://www.toureiffel.paris/en",
+        "link_type": "official"
+      },
+      {
+        "label": "官方票务",
+        "url": "https://ticket.toureiffel.paris/en",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_louvre",
+    "slug": "louvre",
+    "name": "卢浮宫",
+    "name_local": "Musée du Louvre",
+    "city_region": "Paris",
+    "categories": [
+      "历史文化",
+      "艺术建筑"
+    ],
+    "audience_tags": [
+      "适合爸爸",
+      "适合妈妈",
+      "适合全家",
+      "需要提前预约"
+    ],
+    "classic_level": "大众经典",
+    "short_intro": "世界级博物馆，适合作为巴黎文化日的主菜。",
+    "editor_reason": "馆藏密度极高，家庭同行时适合预先选定 5-8 个重点，不追求逛全。",
+    "caution_reason": "空间巨大、游客多，容易疲劳；对不爱博物馆的人可能压力偏大。",
+    "suggested_duration": "2.5-4 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "高",
+    "language_barrier": "中",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；官方建议所有访客预约带时段门票。",
+    "price_level": "待核实，以官方票务为准",
+    "official_url": "https://musee.louvre.fr/en",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e+du+Louvre+Paris",
+    "source_urls": [
+      "https://musee.louvre.fr/en",
+      "https://musee.louvre.fr/en/visit/hours-admission"
+    ],
+    "review_summary": "经典作品集中但人流强，提前规划路线能显著改善体验。",
+    "editor_note": "可考虑早场或夜间开放日，实际开放安排需再查。",
+    "rainy_day_suitable": true,
+    "night_suitable": true,
+    "easy_day_suitable": false,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?louvre,paris,museum",
+        "alt": "卢浮宫外观与金字塔",
+        "caption": "外观和入口场景，用于判断人流与仪式感",
+        "source_url": "https://unsplash.com/s/photos/louvre-paris",
+        "sort_order": 1
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?louvre,gallery",
+        "alt": "卢浮宫展厅",
+        "caption": "馆内展厅氛围参考",
+        "source_url": "https://unsplash.com/s/photos/louvre-museum",
+        "sort_order": 2
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?paris,art,museum",
+        "alt": "巴黎美术馆氛围",
+        "caption": "艺术馆参观氛围参考",
+        "source_url": "https://unsplash.com/s/photos/paris-museum",
+        "sort_order": 3
+      }
+    ],
+    "links": [
+      {
+        "label": "官方网站",
+        "url": "https://musee.louvre.fr/en",
+        "link_type": "official"
+      },
+      {
+        "label": "参观信息",
+        "url": "https://musee.louvre.fr/en/visit/hours-admission",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 5,
+    "fit_reason": "对爸妈是“没白来巴黎”的硬价值，对你来说重点不是重游打卡，而是设计一条少而精的主题路线，比如古文明、法国历史、镇馆作品各取一点。",
+    "possible_mismatch": "人流和空间体量是最大风险；如果没有路线设计，很容易变成疲劳型打卡。",
+    "best_use": "专门前往；选择早场或相对低峰时段，只看 5-8 个重点，结束后接轻松餐饮或塞纳河散步。",
+    "use_cases": [
+      "经典但值得",
+      "需要路线设计",
+      "雨天主菜"
+    ],
+    "transport_note": "巴黎市中心地铁可达，但馆内步行量很大；交通不难，真正难的是体力和路线控制。",
+    "verify_before": "出发前 1 个月确认票务；出发前 1 周确认开放日和预约时段。",
+    "content_status": "upgraded"
+  },
+  {
+    "id": "poi_musee_orsay",
+    "slug": "musee-orsay",
+    "name": "奥赛博物馆",
+    "name_local": "Musée d'Orsay",
+    "city_region": "Paris",
+    "categories": [
+      "艺术建筑",
+      "历史文化"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "需要提前预约"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "印象派与前火车站建筑结合，尺度比卢浮宫更友好。",
+    "editor_reason": "对家庭旅行很友好：好看、好懂、动线比大馆更容易控制。",
+    "caution_reason": "热门展览和高峰时段仍会拥挤。",
+    "suggested_duration": "2-3 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；热门日期建议提前订。",
+    "price_level": "待核实，以官网为准",
+    "official_url": "https://www.musee-orsay.fr/en",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e+d%27Orsay+Paris",
+    "source_urls": [
+      "https://www.musee-orsay.fr/en/visit"
+    ],
+    "review_summary": "游客常称其为巴黎最舒服的大型美术馆之一，建筑本身也很有记忆点。",
+    "editor_note": "适合和塞纳河左岸散步组合。",
+    "rainy_day_suitable": true,
+    "night_suitable": false,
+    "easy_day_suitable": true,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?musee-d-orsay,paris",
+        "alt": "奥赛博物馆建筑",
+        "caption": "奥赛建筑空间参考",
+        "source_url": "https://unsplash.com/s/photos/musee-d-orsay",
+        "sort_order": 1
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?orsay,museum,clock",
+        "alt": "奥赛大钟",
+        "caption": "火车站改造空间的标志性视角",
+        "source_url": "https://unsplash.com/s/photos/orsay-museum",
+        "sort_order": 2
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?impressionism,museum",
+        "alt": "印象派美术馆氛围",
+        "caption": "印象派参观氛围参考",
+        "source_url": "https://unsplash.com/s/photos/impressionism-museum",
+        "sort_order": 3
+      }
+    ],
+    "links": [
+      {
+        "label": "参观信息",
+        "url": "https://www.musee-orsay.fr/en/visit",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 5,
+    "fit_reason": "比卢浮宫更容易获得完整体验，印象派、建筑和火车站空间都直观，适合爸妈，也能弥补你上次只看小半天的遗憾。",
+    "possible_mismatch": "热门展厅会拥挤；如果当天已经安排卢浮宫，容易美术馆疲劳。",
+    "best_use": "专门前往或巴黎文化半日；留足 3 小时，不要只当顺路小馆。",
+    "use_cases": [
+      "经典但值得",
+      "爸妈友好",
+      "雨天主菜"
+    ],
+    "transport_note": "左岸市中心，公共交通方便；馆内尺度中等，但认真看仍需要半天体力。",
+    "verify_before": "出发前 1 个月确认票务；出发前 1 周确认临展和夜间开放。",
+    "content_status": "upgraded"
+  },
+  {
+    "id": "poi_sainte_chapelle",
+    "slug": "sainte-chapelle",
+    "name": "圣礼拜堂",
+    "name_local": "Sainte-Chapelle",
+    "city_region": "Paris",
+    "categories": [
+      "历史文化",
+      "艺术建筑"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "需要提前预约"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "以彩窗震撼感取胜的小体量哥特建筑。",
+    "editor_reason": "停留时间短但视觉回报很高，很适合夹在西岱岛半日游里。",
+    "caution_reason": "安检和入场排队可能拉长；阴天观感会打折。",
+    "suggested_duration": "45-75 分钟",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；建议预约时段。",
+    "price_level": "待核实，以 CMN 官方为准",
+    "official_url": "https://www.sainte-chapelle.fr/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Sainte-Chapelle+Paris",
+    "source_urls": [
+      "https://www.sainte-chapelle.fr/en/"
+    ],
+    "review_summary": "评价核心集中在彩窗的沉浸感，缺点是空间小、人多。",
+    "editor_note": "如果和巴黎圣母院同日，安排很顺。",
+    "rainy_day_suitable": true,
+    "night_suitable": false,
+    "easy_day_suitable": true,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sainte-Chapelle_Interior_Stained_Glass.jpg?width=1200",
+        "alt": "圣礼拜堂彩窗",
+        "caption": "圣礼拜堂彩窗参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "官方网站",
+        "url": "https://www.sainte-chapelle.fr/en/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_notre_dame",
+    "slug": "notre-dame",
+    "name": "巴黎圣母院",
+    "name_local": "Notre-Dame de Paris",
+    "city_region": "Paris",
+    "categories": [
+      "历史文化",
+      "艺术建筑"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "大众经典",
+    "short_intro": "火灾后重新开放的巴黎精神地标，适合和西岱岛散步组合。",
+    "editor_reason": "即使不进入内部，周边视角和历史意义也足够支撑一次停留。",
+    "caution_reason": "重新开放后人流和预约规则可能变化，需临近确认。",
+    "suggested_duration": "45-90 分钟",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "待核实；官网说明可现场排队，预约规则需临近确认。",
+    "price_level": "待核实",
+    "official_url": "https://www.notredamedeparis.fr/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Notre-Dame+de+Paris",
+    "source_urls": [
+      "https://www.notredamedeparis.fr/en/",
+      "https://www.notredamedeparis.fr/en/faq/reservation/"
+    ],
+    "review_summary": "旅行者主要看重历史与修复后的意义，排队等待是不确定因素。",
+    "editor_note": "与圣礼拜堂、花市、塞纳河边散步组合很自然。",
+    "rainy_day_suitable": true,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?notre-dame,paris",
+        "alt": "巴黎圣母院外观",
+        "caption": "圣母院外观与广场场景",
+        "source_url": "https://unsplash.com/s/photos/notre-dame-paris",
+        "sort_order": 1
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?cathedral,interior,paris",
+        "alt": "教堂内部氛围",
+        "caption": "教堂内部仪式感参考",
+        "source_url": "https://unsplash.com/s/photos/cathedral-interior",
+        "sort_order": 2
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?ile-de-la-cite,paris",
+        "alt": "西岱岛和塞纳河",
+        "caption": "西岱岛周边散步场景",
+        "source_url": "https://unsplash.com/s/photos/ile-de-la-cite",
+        "sort_order": 3
+      }
+    ],
+    "links": [
+      {
+        "label": "官方网站",
+        "url": "https://www.notredamedeparis.fr/en/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 5,
+    "fit_reason": "比普通参观更适合你们的是“圣母院 + 弥撒/音乐性时刻”：它把建筑、历史、宗教仪式和巴黎现场感合在一起。",
+    "possible_mismatch": "弥撒是宗教活动，不是演出；需要尊重礼仪，也可能因安检和人流影响体验。",
+    "best_use": "安排在西岱岛半日；如果时间合适，优先体验一场短弥撒或晚间仪式，再散步到塞纳河边。",
+    "use_cases": [
+      "文化+现场",
+      "经典但值得",
+      "晚上可去"
+    ],
+    "transport_note": "西岱岛交通方便，步行友好；真正需要确认的是入场规则和弥撒时间。",
+    "verify_before": "出发前 1 周确认官方弥撒时间；前 1 天确认是否需要预约入场。",
+    "content_status": "upgraded"
+  },
+  {
+    "id": "poi_arc_triomphe",
+    "slug": "arc-de-triomphe",
+    "name": "凯旋门",
+    "name_local": "Arc de Triomphe",
+    "city_region": "Paris",
+    "categories": [
+      "历史文化",
+      "艺术建筑"
+    ],
+    "audience_tags": [
+      "适合爸爸",
+      "适合全家",
+      "需要提前预约"
+    ],
+    "classic_level": "大众经典",
+    "short_intro": "香街轴线上的城市观景点，登顶可看放射状街区。",
+    "editor_reason": "比埃菲尔铁塔登顶更紧凑，城市结构感更强。",
+    "caution_reason": "登顶需要爬楼，体力要求中等；天气不好则观景价值下降。",
+    "suggested_duration": "1-1.5 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；建议提前买票。",
+    "price_level": "待核实，以 CMN 官方为准",
+    "official_url": "https://www.paris-arc-de-triomphe.fr/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Arc+de+Triomphe+Paris",
+    "source_urls": [
+      "https://www.paris-arc-de-triomphe.fr/en/visit/practical-information"
+    ],
+    "review_summary": "游客喜欢屋顶视角，主要顾虑是楼梯和入口寻找。",
+    "editor_note": "适合傍晚，之后可轻松走香榭丽舍。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": false,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arc_de_Triomphe%2C_Paris.jpg?width=1200",
+        "alt": "巴黎凯旋门",
+        "caption": "凯旋门参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "参观信息",
+        "url": "https://www.paris-arc-de-triomphe.fr/en/visit/practical-information",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_montmartre_sacre_coeur",
+    "slug": "montmartre-sacre-coeur",
+    "name": "蒙马特与圣心大教堂",
+    "name_local": "Montmartre & Basilique du Sacré-Cœur",
+    "city_region": "Paris",
+    "categories": [
+      "历史文化",
+      "艺术建筑",
+      "海景小镇"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "大众经典",
+    "short_intro": "山丘、街巷、白色教堂和巴黎远景，是轻松但游客很多的半日散步。",
+    "editor_reason": "街区氛围很完整，适合边走边看，照片和休息点都多。",
+    "caution_reason": "上坡多、热门街段拥挤，个别区域需注意兜售和扒窃。",
+    "suggested_duration": "2-3 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "不需预约；如登穹顶需现场核实。",
+    "price_level": "教堂参观待核实；街区免费",
+    "official_url": "https://www.sacre-coeur-montmartre.com/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Sacr%C3%A9-C%C5%93ur+Montmartre+Paris",
+    "source_urls": [
+      "https://www.sacre-coeur-montmartre.com/en/"
+    ],
+    "review_summary": "景观和街区氛围很受欢迎，拥挤和商业化是常见提醒。",
+    "editor_note": "可乘缆车减少爬坡。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": false,
+    "verification_status": "已核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sacre_Coeur_Paris_Montmartre.jpg?width=1200",
+        "alt": "蒙马特圣心大教堂",
+        "caption": "圣心大教堂参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "圣心大教堂官网",
+        "url": "https://www.sacre-coeur-montmartre.com/en/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_palais_garnier",
+    "slug": "palais-garnier",
+    "name": "巴黎歌剧院加尼叶宫",
+    "name_local": "Palais Garnier",
+    "city_region": "Paris",
+    "categories": [
+      "艺术建筑",
+      "文化活动"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "需要提前预约"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "华丽的歌剧院建筑，可参观也可看演出。",
+    "editor_reason": "室内装饰很有戏剧性，比单纯购物街更有记忆点。",
+    "caution_reason": "参观开放受演出和活动影响，需查具体日期。",
+    "suggested_duration": "1-1.5 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；参观或演出都建议提前看官网。",
+    "price_level": "待核实",
+    "official_url": "https://www.operadeparis.fr/en/visits/palais-garnier",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Palais+Garnier+Paris",
+    "source_urls": [
+      "https://www.operadeparis.fr/en/visits/palais-garnier"
+    ],
+    "review_summary": "建筑内饰评价很高，偶尔因开放区域限制产生落差。",
+    "editor_note": "与老佛爷/春天百货或日式拉面街区可同日。",
+    "rainy_day_suitable": true,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palais_Garnier_Paris.jpg?width=1200",
+        "alt": "加尼叶宫外观",
+        "caption": "加尼叶宫参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "官方参观页",
+        "url": "https://www.operadeparis.fr/en/visits/palais-garnier",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_orangerie",
+    "slug": "musee-orangerie",
+    "name": "橘园美术馆",
+    "name_local": "Musée de l'Orangerie",
+    "city_region": "Paris",
+    "categories": [
+      "艺术建筑"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "需要提前预约"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "以莫奈《睡莲》椭圆展厅为核心的小而美美术馆。",
+    "editor_reason": "比大馆轻松，艺术回报稳定，非常适合轻松日或雨天。",
+    "caution_reason": "若只为睡莲而来，停留时间不会很长。",
+    "suggested_duration": "1-1.5 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；建议预约。",
+    "price_level": "待核实，以官网为准",
+    "official_url": "https://www.musee-orangerie.fr/en",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e+de+l%27Orangerie+Paris",
+    "source_urls": [
+      "https://www.musee-orangerie.fr/en/visit-orangerie"
+    ],
+    "review_summary": "评价集中在睡莲展厅的安静和沉浸感，适合不想逛太累的人。",
+    "editor_note": "和杜乐丽花园、协和广场顺路。",
+    "rainy_day_suitable": true,
+    "night_suitable": false,
+    "easy_day_suitable": true,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?musee-orangerie,paris",
+        "alt": "橘园美术馆",
+        "caption": "橘园美术馆外部与周边氛围",
+        "source_url": "https://unsplash.com/s/photos/musee-orangerie",
+        "sort_order": 1
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?monet,water-lilies",
+        "alt": "莫奈睡莲氛围",
+        "caption": "睡莲主题氛围参考，不替代馆内实景",
+        "source_url": "https://unsplash.com/s/photos/monet-water-lilies",
+        "sort_order": 2
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?tuileries,paris",
+        "alt": "杜乐丽花园",
+        "caption": "可组合的杜乐丽花园场景",
+        "source_url": "https://unsplash.com/s/photos/tuileries-paris",
+        "sort_order": 3
+      }
+    ],
+    "links": [
+      {
+        "label": "参观信息",
+        "url": "https://www.musee-orangerie.fr/en/visit-orangerie",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 5,
+    "fit_reason": "非常符合“轻量但高情绪回报”：空间不大，睡莲展厅有沉浸感，爸妈容易理解，你也有过明确震撼记忆。",
+    "possible_mismatch": "如果当天状态很好，可能觉得停留短；如果游客太多，静谧感会下降。",
+    "best_use": "顺路但值得认真停留；和杜乐丽、协和广场、左岸散步组合。",
+    "use_cases": [
+      "经典但轻量",
+      "高情绪回报",
+      "雨天备用"
+    ],
+    "transport_note": "市中心步行和地铁都方便；体力消耗低，适合夹在大项目之间。",
+    "verify_before": "出发前 1 个月确认票务；出发前 1 周确认预约时段。",
+    "content_status": "upgraded"
+  },
+  {
+    "id": "poi_seine_cruise",
+    "slug": "seine-cruise",
+    "name": "塞纳河游船",
+    "name_local": "Vedettes de Paris",
+    "city_region": "Paris",
+    "categories": [
+      "特殊体验",
+      "自然景观"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "大众经典",
+    "short_intro": "以低体力方式串起巴黎河岸景观，傍晚尤其适合家庭。",
+    "editor_reason": "对长辈友好，能在较短时间获得城市整体感。",
+    "caution_reason": "天气差、风大或座位位置不好会影响体验。",
+    "suggested_duration": "1-1.5 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；热门日落时段建议提前订。",
+    "price_level": "待核实，以船公司官网为准",
+    "official_url": "https://www.vedettesdeparis.fr/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Vedettes+de+Paris",
+    "source_urls": [
+      "https://www.vedettesdeparis.fr/en/"
+    ],
+    "review_summary": "优点是省力和视角完整，缺点是热门时段拥挤且商业化。",
+    "editor_note": "可作为巴黎第一晚的轻松项目。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Seine_River_Paris.jpg?width=1200",
+        "alt": "塞纳河景观",
+        "caption": "塞纳河游船视角参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "Vedettes de Paris",
+        "url": "https://www.vedettesdeparis.fr/en/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_le_bon_marche",
+    "slug": "le-bon-marche",
+    "name": "乐蓬马歇百货",
+    "name_local": "Le Bon Marché Rive Gauche",
+    "city_region": "Paris",
+    "categories": [
+      "购物市集",
+      "餐饮"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "语言门槛低",
+      "适合全家"
+    ],
+    "classic_level": "可选补充",
+    "short_intro": "左岸高级百货和食品馆，适合购物、伴手礼和轻松补给。",
+    "editor_reason": "比右岸大百货更从容，食品馆 La Grande Épicerie 很适合家庭分头逛。",
+    "caution_reason": "不是景点型必去；预算容易失控。",
+    "suggested_duration": "1-2 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约。",
+    "price_level": "消费型，按购物为准",
+    "official_url": "https://www.lebonmarche.com/fr",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Le+Bon+March%C3%A9+Rive+Gauche+Paris",
+    "source_urls": [
+      "https://www.lebonmarche.com/fr"
+    ],
+    "review_summary": "常被认为更安静、选品好，适合不想挤老佛爷的人。",
+    "editor_note": "可以和奥赛、罗丹美术馆、左岸晚餐组合。",
+    "rainy_day_suitable": true,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "已核实",
+    "images": [
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?le-bon-marche,paris",
+        "alt": "乐蓬马歇百货",
+        "caption": "百货外观和街区氛围参考",
+        "source_url": "https://unsplash.com/s/photos/le-bon-marche-paris",
+        "sort_order": 1
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?paris,department-store",
+        "alt": "巴黎百货商店",
+        "caption": "巴黎百货空间氛围参考",
+        "source_url": "https://unsplash.com/s/photos/paris-department-store",
+        "sort_order": 2
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?paris,shopping",
+        "alt": "巴黎购物街区",
+        "caption": "购物型行程氛围参考",
+        "source_url": "https://unsplash.com/s/photos/paris-shopping",
+        "sort_order": 3
+      }
+    ],
+    "links": [
+      {
+        "label": "官方网站",
+        "url": "https://www.lebonmarche.com/fr",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 1,
+    "fit_reason": "你们已经亲测不适合：高奢/高级百货不是这次家庭旅行的有效记忆点。",
+    "possible_mismatch": "容易逛得一头雾水，也不符合避免纯购物行程的偏好。",
+    "best_use": "不建议作为正式 POI；最多作为极端雨天临时补给。",
+    "use_cases": [
+      "不适合本家偏好",
+      "雨天补给"
+    ],
+    "transport_note": "交通方便，但旅行价值不高。",
+    "verify_before": "无需优先核实。",
+    "content_status": "upgraded"
+  },
+  {
+    "id": "poi_atelier_lumieres",
+    "slug": "atelier-lumieres",
+    "name": "光之工坊",
+    "name_local": "Atelier des Lumières",
+    "city_region": "Paris",
+    "categories": [
+      "文化活动",
+      "特殊体验"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低",
+      "需要提前预约"
+    ],
+    "classic_level": "可选补充",
+    "short_intro": "数字沉浸展馆，适合雨天或不想走太多路的时段。",
+    "editor_reason": "语言负担低，视觉体验直接，家人审美差异也比较容易兼容。",
+    "caution_reason": "展览内容轮换，价值取决于当期主题；不是传统博物馆。",
+    "suggested_duration": "1-1.5 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；官网售罄时段不可购票。",
+    "price_level": "待核实，以官网为准",
+    "official_url": "https://www.atelier-lumieres.com/en",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Atelier+des+Lumi%C3%A8res+Paris",
+    "source_urls": [
+      "https://www.atelier-lumieres.com/en/tickets",
+      "https://www.atelier-lumieres.com/en/whats-on"
+    ],
+    "review_summary": "沉浸式视觉评价分化，喜欢轻松体验的人更容易满意。",
+    "editor_note": "当期展览要临近再决定。",
+    "rainy_day_suitable": true,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Atelier_des_Lumi%C3%A8res_Paris.jpg?width=1200",
+        "alt": "光之工坊",
+        "caption": "光之工坊参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "官方票务",
+        "url": "https://www.atelier-lumieres.com/en/tickets",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_le_train_bleu",
+    "slug": "le-train-bleu",
+    "name": "蓝色列车餐厅",
+    "name_local": "Le Train Bleu",
+    "city_region": "Paris",
+    "categories": [
+      "餐饮",
+      "米其林/法餐",
+      "艺术建筑"
+    ],
+    "audience_tags": [
+      "适合爸爸",
+      "适合妈妈",
+      "需要提前预约"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "里昂车站内的 Belle Époque 风格餐厅，吃的是场景和仪式感。",
+    "editor_reason": "室内空间非常有记忆点，适合想体验“巴黎老派餐厅”的家庭晚餐。",
+    "caution_reason": "价格和口味预期要分开看，重点是氛围。",
+    "suggested_duration": "1.5-2 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "中",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；建议提前订位。",
+    "price_level": "待核实，以餐厅菜单为准",
+    "official_url": "https://www.le-train-bleu.com/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Le+Train+Bleu+Paris",
+    "source_urls": [
+      "https://www.le-train-bleu.com/en/"
+    ],
+    "review_summary": "空间评价很高，餐食评价通常低于环境评价。",
+    "editor_note": "可作为巴黎某天的正式餐饮候选。",
+    "rainy_day_suitable": true,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_Train_Bleu_Paris.jpg?width=1200",
+        "alt": "蓝色列车餐厅室内",
+        "caption": "Le Train Bleu 室内参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "餐厅官网",
+        "url": "https://www.le-train-bleu.com/en/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_bouillon_chartier",
+    "slug": "bouillon-chartier",
+    "name": "Chartier 老牌平价法餐",
+    "name_local": "Bouillon Chartier Grands Boulevards",
+    "city_region": "Paris",
+    "categories": [
+      "餐饮",
+      "米其林/法餐"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "可选补充",
+    "short_intro": "经典 Bouillon 风格，适合体验热闹、平价、老巴黎餐厅感。",
+    "editor_reason": "不用把它当美食巅峰，作为轻松法餐体验反而很合适。",
+    "caution_reason": "排队、翻台快、服务节奏快，安静用餐需求不适合。",
+    "suggested_duration": "1-1.5 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "中",
+    "reservation_required": false,
+    "latest_reservation_advice": "待核实；通常现场排队为主。",
+    "price_level": "待核实，以菜单为准",
+    "official_url": "https://www.bouillon-chartier.com/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Bouillon+Chartier+Grands+Boulevards+Paris",
+    "source_urls": [
+      "https://www.bouillon-chartier.com/"
+    ],
+    "review_summary": "评价多围绕性价比和氛围，食物稳定但不精致。",
+    "editor_note": "适合不想正式订餐的一餐。",
+    "rainy_day_suitable": true,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bouillon_Chartier_Paris.jpg?width=1200",
+        "alt": "Bouillon Chartier 餐厅",
+        "caption": "Bouillon Chartier 参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "餐厅官网",
+        "url": "https://www.bouillon-chartier.com/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_marche_bastille",
+    "slug": "marche-bastille",
+    "name": "巴士底市场",
+    "name_local": "Marché Bastille",
+    "city_region": "Paris",
+    "categories": [
+      "购物市集",
+      "餐饮"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "可选补充",
+    "short_intro": "露天市场，适合看当地食材、买水果小吃或安排轻松早晨。",
+    "editor_reason": "比单纯餐厅更有生活感，适合家庭成员各看各的。",
+    "caution_reason": "开放日和时间必须核实；雨天体验下降。",
+    "suggested_duration": "45-90 分钟",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "中",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约；开放日待核实。",
+    "price_level": "消费型，按购买为准",
+    "official_url": "https://www.paris.fr/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9+Bastille+Paris",
+    "source_urls": [
+      "https://www.paris.fr/"
+    ],
+    "review_summary": "常被推荐为巴黎生活感体验，摊位选择和天气影响较大。",
+    "editor_note": "适合和玛黑区或孚日广场组合。",
+    "rainy_day_suitable": false,
+    "night_suitable": false,
+    "easy_day_suitable": true,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marche_Bastille_Paris.jpg?width=1200",
+        "alt": "巴黎露天市场",
+        "caption": "巴士底市场参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "巴黎市官网",
+        "url": "https://www.paris.fr/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_msm_abbey",
+    "slug": "mont-saint-michel-abbey",
+    "name": "圣米歇尔山修道院",
+    "name_local": "Abbaye du Mont-Saint-Michel",
+    "city_region": "Mont-Saint-Michel",
+    "categories": [
+      "历史文化",
+      "艺术建筑"
+    ],
+    "audience_tags": [
+      "适合爸爸",
+      "适合妈妈",
+      "适合全家",
+      "体力要求高",
+      "需要提前预约"
+    ],
+    "classic_level": "大众经典",
+    "short_intro": "圣米歇尔山的核心参观对象，建筑和海湾景观共同构成体验。",
+    "editor_reason": "如果远道而来，修道院是最值得保留的核心点。",
+    "caution_reason": "上坡和台阶多，潮汐、接驳、人流都需要预留缓冲。",
+    "suggested_duration": "1.5-2.5 小时",
+    "transport_difficulty": "高",
+    "physical_intensity": "高",
+    "language_barrier": "中",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；建议提前购票并核对接驳时间。",
+    "price_level": "待核实，以 CMN 官方为准",
+    "official_url": "https://www.abbaye-mont-saint-michel.fr/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Abbaye+du+Mont-Saint-Michel",
+    "source_urls": [
+      "https://www.abbaye-mont-saint-michel.fr/en/visit/practical-information"
+    ],
+    "review_summary": "建筑和俯瞰海湾很受好评，体力和人流是主要挑战。",
+    "editor_note": "巴黎往返非常累，最好确认是否真要当天往返。",
+    "rainy_day_suitable": true,
+    "night_suitable": false,
+    "easy_day_suitable": false,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mont-Saint-Michel_Abbey.jpg?width=1200",
+        "alt": "圣米歇尔山修道院",
+        "caption": "修道院参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "参观信息",
+        "url": "https://www.abbaye-mont-saint-michel.fr/en/visit/practical-information",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_msm_village",
+    "slug": "mont-saint-michel-village-ramparts",
+    "name": "圣米歇尔山村落与城墙",
+    "name_local": "Village et remparts",
+    "city_region": "Mont-Saint-Michel",
+    "categories": [
+      "历史文化",
+      "海景小镇"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低",
+      "体力要求高"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "沿坡道和城墙看海湾、屋顶与中世纪街巷。",
+    "editor_reason": "不买修道院票也能感受到圣米歇尔山的地形和戏剧性。",
+    "caution_reason": "商业街拥挤且台阶多，餐饮性价比需谨慎。",
+    "suggested_duration": "1-2 小时",
+    "transport_difficulty": "高",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约；潮汐和接驳需核实。",
+    "price_level": "村落免费，消费另计",
+    "official_url": "https://www.ot-montsaintmichel.com/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Mont-Saint-Michel+village",
+    "source_urls": [
+      "https://www.ot-montsaintmichel.com/en/"
+    ],
+    "review_summary": "景观惊艳但商业化明显，避开高峰更舒服。",
+    "editor_note": "适合慢走拍照，不要把午餐期待放太高。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": false,
+    "verification_status": "已核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mont_Saint-Michel_street.jpg?width=1200",
+        "alt": "圣米歇尔山村落街道",
+        "caption": "村落街巷参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "旅游局",
+        "url": "https://www.ot-montsaintmichel.com/en/",
+        "link_type": "tourism"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_msm_bay_walk",
+    "slug": "mont-saint-michel-bay-guided-walk",
+    "name": "圣米歇尔湾导览徒步",
+    "name_local": "Traversée de la baie",
+    "city_region": "Mont-Saint-Michel",
+    "categories": [
+      "自然景观",
+      "特殊体验"
+    ],
+    "audience_tags": [
+      "适合我",
+      "体力要求高",
+      "需要提前预约"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "跟认证向导进入海湾，理解潮汐、流沙和朝圣路线。",
+    "editor_reason": "比只看山更有自然和地理体验感，适合想要特别记忆的人。",
+    "caution_reason": "必须跟专业向导，受潮汐和天气影响，体力要求高。",
+    "suggested_duration": "1.5-4 小时",
+    "transport_difficulty": "高",
+    "physical_intensity": "高",
+    "language_barrier": "中",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；需根据潮汐和向导档期预约。",
+    "price_level": "待核实，以向导机构为准",
+    "official_url": "https://www.ot-montsaintmichel.com/en/plan-your-stay/nature-outings-and-crossing-of-the-bay/crossing-of-the-bay-guides/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Mont-Saint-Michel+bay+guided+walk",
+    "source_urls": [
+      "https://www.ot-montsaintmichel.com/en/plan-your-stay/nature-outings-and-crossing-of-the-bay/crossing-of-the-bay-guides/"
+    ],
+    "review_summary": "体验独特但不适合临时随性参加，安全和天气是关键。",
+    "editor_note": "如果只做巴黎往返，可能太赶。",
+    "rainy_day_suitable": false,
+    "night_suitable": false,
+    "easy_day_suitable": false,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mont_Saint-Michel_Bay.jpg?width=1200",
+        "alt": "圣米歇尔湾",
+        "caption": "圣米歇尔湾参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "海湾向导列表",
+        "url": "https://www.ot-montsaintmichel.com/en/plan-your-stay/nature-outings-and-crossing-of-the-bay/crossing-of-the-bay-guides/",
+        "link_type": "tourism"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_la_mere_poulard",
+    "slug": "la-mere-poulard",
+    "name": "La Mère Poulard",
+    "name_local": "Auberge La Mère Poulard",
+    "city_region": "Mont-Saint-Michel",
+    "categories": [
+      "餐饮",
+      "历史文化"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "需要提前预约"
+    ],
+    "classic_level": "可选补充",
+    "short_intro": "圣米歇尔山名店，以蓬松煎蛋和历史名气出圈。",
+    "editor_reason": "如果想体验一个“到此一餐”的仪式感，它有故事性。",
+    "caution_reason": "评价常见分化，很多人认为价格高于食物本身。",
+    "suggested_duration": "1-1.5 小时",
+    "transport_difficulty": "高",
+    "physical_intensity": "低",
+    "language_barrier": "中",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；旺季建议预订。",
+    "price_level": "待核实，以菜单为准",
+    "official_url": "https://www.lamerepoulard.com/en/restaurant-at-mont-st-michel/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=La+M%C3%A8re+Poulard+Mont-Saint-Michel",
+    "source_urls": [
+      "https://www.lamerepoulard.com/en/restaurant-at-mont-st-michel/"
+    ],
+    "review_summary": "环境和历史感强，性价比争议大。",
+    "editor_note": "更适合作为候选，不建议默认锁定。",
+    "rainy_day_suitable": true,
+    "night_suitable": true,
+    "easy_day_suitable": false,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/La_M%C3%A8re_Poulard_Mont-Saint-Michel.jpg?width=1200",
+        "alt": "La Mère Poulard",
+        "caption": "La Mère Poulard 参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "餐厅官网",
+        "url": "https://www.lamerepoulard.com/en/restaurant-at-mont-st-michel/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_promenade_anglais",
+    "slug": "promenade-des-anglais",
+    "name": "英国人漫步大道",
+    "name_local": "Promenade des Anglais",
+    "city_region": "Nice",
+    "categories": [
+      "自然景观",
+      "海景小镇"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "大众经典",
+    "short_intro": "尼斯海岸线的主轴，适合抵达日散步和看海。",
+    "editor_reason": "零门槛、低体力、很尼斯，是住宿在尼斯时最容易反复使用的场景。",
+    "caution_reason": "无遮阴路段较多，正午暴晒；海滩多为卵石。",
+    "suggested_duration": "45-120 分钟",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约。",
+    "price_level": "免费",
+    "official_url": "https://www.explorenicecotedazur.com/en/fiche/promenade-des-anglais-en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Promenade+des+Anglais+Nice",
+    "source_urls": [
+      "https://www.explorenicecotedazur.com/en/fiche/promenade-des-anglais-en/"
+    ],
+    "review_summary": "普遍适合散步、看海和放空，缺点是旺季人多和日晒。",
+    "editor_note": "可安排在到达尼斯当天，不消耗决策。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "已核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Promenade_des_Anglais_Nice.jpg?width=1200",
+        "alt": "尼斯英国人漫步大道",
+        "caption": "英国人漫步大道参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "尼斯旅游局",
+        "url": "https://www.explorenicecotedazur.com/en/fiche/promenade-des-anglais-en/",
+        "link_type": "tourism"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_vieux_nice_cours_saleya",
+    "slug": "vieux-nice-cours-saleya",
+    "name": "尼斯老城与 Cours Saleya 市场",
+    "name_local": "Vieux Nice & Cours Saleya",
+    "city_region": "Nice",
+    "categories": [
+      "购物市集",
+      "餐饮",
+      "历史文化"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "大众经典",
+    "short_intro": "老城街巷、花市、餐馆和小吃集中区。",
+    "editor_reason": "尼斯最适合家庭慢逛的区域，吃喝买都方便。",
+    "caution_reason": "游客区餐厅质量差异大，市场开放日和时间需核实。",
+    "suggested_duration": "2-3 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约；市场时间待核实。",
+    "price_level": "街区免费，消费另计",
+    "official_url": "https://www.explorenicecotedazur.com/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Cours+Saleya+Nice",
+    "source_urls": [
+      "https://www.nice-tourism.com/en/nice-attractions/promenades-and-pedestrian-areas-in-nice/cours-saleya.html"
+    ],
+    "review_summary": "氛围和便利度很高，餐厅选择需要筛。",
+    "editor_note": "可以和 Fenocchio、城堡山同日。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cours_Saleya_Nice.jpg?width=1200",
+        "alt": "Cours Saleya 市场",
+        "caption": "Cours Saleya 市场参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "Cours Saleya 参考",
+        "url": "https://www.nice-tourism.com/en/nice-attractions/promenades-and-pedestrian-areas-in-nice/cours-saleya.html",
+        "link_type": "tourism"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_castle_hill_nice",
+    "slug": "castle-hill-nice",
+    "name": "尼斯城堡山",
+    "name_local": "Colline du Château",
+    "city_region": "Nice",
+    "categories": [
+      "自然景观",
+      "历史文化"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低",
+      "体力要求高"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "俯瞰天使湾、老城和港口的城市公园。",
+    "editor_reason": "尼斯最值得的免费观景点，能把城市结构一下看明白。",
+    "caution_reason": "上坡或台阶明显，电梯开放情况需临近确认。",
+    "suggested_duration": "1-1.5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约。",
+    "price_level": "免费",
+    "official_url": "https://www.nice.fr/fr/parcs-et-jardins/le-parc-de-la-colline-du-chateau?lang=fr",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Colline+du+Ch%C3%A2teau+Nice",
+    "source_urls": [
+      "https://www.nice.fr/fr/parcs-et-jardins/le-parc-de-la-colline-du-chateau?lang=fr"
+    ],
+    "review_summary": "景观回报高，主要问题是上坡和天气。",
+    "editor_note": "早晨或傍晚更舒服。",
+    "rainy_day_suitable": false,
+    "night_suitable": false,
+    "easy_day_suitable": false,
+    "verification_status": "已核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Colline_du_Chateau_Nice.jpg?width=1200",
+        "alt": "城堡山俯瞰尼斯",
+        "caption": "城堡山视角参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "尼斯市政页面",
+        "url": "https://www.nice.fr/fr/parcs-et-jardins/le-parc-de-la-colline-du-chateau?lang=fr",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_matisse_museum",
+    "slug": "matisse-museum-nice",
+    "name": "尼斯马蒂斯美术馆",
+    "name_local": "Musée Matisse Nice",
+    "city_region": "Nice",
+    "categories": [
+      "艺术建筑"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合我",
+      "需要提前预约"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "位于 Cimiez 区，聚焦马蒂斯与尼斯的关系。",
+    "editor_reason": "比巴黎大馆更轻，适合对现代艺术有兴趣的半日文化点。",
+    "caution_reason": "对马蒂斯兴趣不高的人可能觉得专门前往略绕。",
+    "suggested_duration": "1-1.5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "低",
+    "language_barrier": "中",
+    "reservation_required": false,
+    "latest_reservation_advice": "待核实；开放和票制需官网确认。",
+    "price_level": "待核实",
+    "official_url": "https://www.musee-matisse-nice.org/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e+Matisse+Nice",
+    "source_urls": [
+      "https://www.nice.fr/fr/culture/musees-et-galeries/musee-matisse"
+    ],
+    "review_summary": "适合马蒂斯爱好者，馆藏和展览预期要提前看清。",
+    "editor_note": "可和 Cimiez 花园、修道院周边组合。",
+    "rainy_day_suitable": true,
+    "night_suitable": false,
+    "easy_day_suitable": true,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Musee_Matisse_Nice.jpg?width=1200",
+        "alt": "尼斯马蒂斯美术馆",
+        "caption": "马蒂斯美术馆参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "官网",
+        "url": "https://www.musee-matisse-nice.org/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_chagall_museum",
+    "slug": "chagall-museum-nice",
+    "name": "夏加尔国家博物馆",
+    "name_local": "Musée national Marc Chagall",
+    "city_region": "Nice",
+    "categories": [
+      "艺术建筑",
+      "文化活动"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合我",
+      "需要提前预约"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "以夏加尔宗教主题作品为核心的小型美术馆。",
+    "editor_reason": "馆小但完整，适合作为尼斯雨天文化备用项。",
+    "caution_reason": "主题性较强，对不感兴趣的人吸引力有限。",
+    "suggested_duration": "1-1.5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "低",
+    "language_barrier": "中",
+    "reservation_required": false,
+    "latest_reservation_advice": "待核实；展览和开放时间需官网确认。",
+    "price_level": "待核实",
+    "official_url": "https://musees-nationaux-alpesmaritimes.fr/chagall/en",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e+national+Marc+Chagall+Nice",
+    "source_urls": [
+      "https://www.marcchagall.com/en",
+      "https://musees-nationaux-alpesmaritimes.fr/chagall/en"
+    ],
+    "review_summary": "评价常提到安静、作品集中，适合喜欢夏加尔的人。",
+    "editor_note": "可与马蒂斯馆二选一，避免美术馆疲劳。",
+    "rainy_day_suitable": true,
+    "night_suitable": false,
+    "easy_day_suitable": true,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Musee_Chagall_Nice.jpg?width=1200",
+        "alt": "夏加尔博物馆",
+        "caption": "夏加尔博物馆参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "博物馆页面",
+        "url": "https://musees-nationaux-alpesmaritimes.fr/chagall/en",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_villa_massena",
+    "slug": "villa-massena",
+    "name": "马塞纳别墅博物馆",
+    "name_local": "Villa Masséna",
+    "city_region": "Nice",
+    "categories": [
+      "历史文化",
+      "艺术建筑"
+    ],
+    "audience_tags": [
+      "适合爸爸",
+      "适合妈妈",
+      "语言门槛低"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "英国人漫步大道旁的 Belle Époque 别墅，讲述尼斯和里维埃拉历史。",
+    "editor_reason": "比大景点安静，适合想理解尼斯作为度假城市的背景。",
+    "caution_reason": "不是强刺激景点，适合安静浏览。",
+    "suggested_duration": "1-1.5 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "中",
+    "reservation_required": false,
+    "latest_reservation_advice": "开放和票制待核实。",
+    "price_level": "待核实",
+    "official_url": "https://www.nice.fr/fr/culture/musees-et-galeries/musee-massena-le-musee?lang=fr",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Villa+Mass%C3%A9na+Nice",
+    "source_urls": [
+      "https://www.nice.fr/fr/culture/musees-et-galeries/musee-massena-le-musee?lang=fr"
+    ],
+    "review_summary": "环境和建筑评价好，适合慢节奏文化点。",
+    "editor_note": "和海边散步组合很顺。",
+    "rainy_day_suitable": true,
+    "night_suitable": false,
+    "easy_day_suitable": true,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Villa_Massena_Nice.jpg?width=1200",
+        "alt": "马塞纳别墅",
+        "caption": "Villa Masséna 参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "尼斯市政页面",
+        "url": "https://www.nice.fr/fr/culture/musees-et-galeries/musee-massena-le-musee?lang=fr",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_le_plongeoir",
+    "slug": "le-plongeoir",
+    "name": "Le Plongeoir 海景餐厅",
+    "name_local": "Le Plongeoir",
+    "city_region": "Nice",
+    "categories": [
+      "餐饮",
+      "特殊体验"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "需要提前预约"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "建在海边岩石上的尼斯标志性餐厅，主打场景感。",
+    "editor_reason": "适合把一餐变成旅行记忆，尤其是天气好的午餐或日落前后。",
+    "caution_reason": "价格和风景绑定，菜品评价不一定压倒性；订位很关键。",
+    "suggested_duration": "1.5-2 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "低",
+    "language_barrier": "中",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；建议提前订位。",
+    "price_level": "待核实，以菜单为准",
+    "official_url": "https://www.leplongeoir.com/en/restaurant/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Le+Plongeoir+Nice",
+    "source_urls": [
+      "https://www.leplongeoir.com/en/restaurant/",
+      "https://www.explorenicecotedazur.com/en/info/restaurant-le-plongeoir-en/"
+    ],
+    "review_summary": "海景和建筑位置很受欢迎，食物性价比评价分化。",
+    "editor_note": "如果去，按“景观餐厅”而不是“美食朝圣”预期。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?nice,france,sea,restaurant",
+        "alt": "尼斯海边餐厅",
+        "caption": "尼斯海边餐饮氛围参考",
+        "source_url": "https://unsplash.com/s/photos/nice-sea-restaurant",
+        "sort_order": 1
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?nice,sunset,sea",
+        "alt": "尼斯日落海景",
+        "caption": "日落和海面氛围参考",
+        "source_url": "https://unsplash.com/s/photos/nice-sunset-sea",
+        "sort_order": 2
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?port-lympia,nice",
+        "alt": "尼斯港区",
+        "caption": "尼斯港区夜晚前后氛围",
+        "source_url": "https://unsplash.com/s/photos/port-nice",
+        "sort_order": 3
+      }
+    ],
+    "links": [
+      {
+        "label": "餐厅官网",
+        "url": "https://www.leplongeoir.com/en/restaurant/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 4,
+    "fit_reason": "它很接近你理想里的“餐饮 + 场景”：坐在海上岩石边，能把尼斯的海、日落、餐厅仪式感合在一起。",
+    "possible_mismatch": "预算高，且评价常常是“景色大于料理”；如果座位不好或天气不好，性价比会下降。",
+    "best_use": "尼斯记忆点晚餐候选；按景观体验预期，不按纯美食朝圣预期。",
+    "use_cases": [
+      "餐饮+场景",
+      "海景记忆点",
+      "值得预约"
+    ],
+    "transport_note": "在尼斯港东侧，市中心可打车或沿海步行/公交；晚餐后回程建议打车或提前查公交。",
+    "verify_before": "出发前 1 个月查订位；前 1 天看天气和座位备注。",
+    "content_status": "upgraded"
+  },
+  {
+    "id": "poi_restaurant_jan",
+    "slug": "restaurant-jan",
+    "name": "Restaurant JAN",
+    "name_local": "JAN",
+    "city_region": "Nice",
+    "categories": [
+      "米其林/法餐",
+      "餐饮"
+    ],
+    "audience_tags": [
+      "适合我",
+      "需要提前预约"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "尼斯港附近的精致餐厅，南非背景与法餐技术结合。",
+    "editor_reason": "如果想在尼斯安排一顿正式餐，它比纯海景餐厅更偏料理体验。",
+    "caution_reason": "座位少、预算高、用餐时间长；不适合随意带长辈试错。",
+    "suggested_duration": "2.5-3.5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "低",
+    "language_barrier": "高",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；需提前订位。",
+    "price_level": "待核实，以餐厅菜单为准",
+    "official_url": "https://janonline.com/restaurant-jan/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+JAN+Nice",
+    "source_urls": [
+      "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/nice/restaurant/jan",
+      "https://janonline.com/restaurant-jan/"
+    ],
+    "review_summary": "评价强调创意和服务，预算与口味偏好需要提前确认。",
+    "editor_note": "家庭投票若分歧大，可先放候选。",
+    "rainy_day_suitable": true,
+    "night_suitable": true,
+    "easy_day_suitable": false,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nice_Port_Lympia.jpg?width=1200",
+        "alt": "尼斯港区",
+        "caption": "JAN 所在港区氛围参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "餐厅官网",
+        "url": "https://janonline.com/restaurant-jan/",
+        "link_type": "official"
+      },
+      {
+        "label": "Michelin Guide",
+        "url": "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/nice/restaurant/jan",
+        "link_type": "michelin"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_fenocchio",
+    "slug": "fenocchio",
+    "name": "Fenocchio 冰淇淋",
+    "name_local": "Glacier Fenocchio",
+    "city_region": "Nice",
+    "categories": [
+      "餐饮"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "可选补充",
+    "short_intro": "尼斯老城著名冰淇淋店，口味选择多。",
+    "editor_reason": "非常适合作为老城散步中的轻松奖励，不需要占用正式餐位。",
+    "caution_reason": "热门时段排队，口味选择多但不必过度期待。",
+    "suggested_duration": "15-30 分钟",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约。",
+    "price_level": "待核实，以店内为准",
+    "official_url": "https://www.fenocchio.fr/glacier-a-nice/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Fenocchio+Nice",
+    "source_urls": [
+      "https://www.fenocchio.fr/glacier-a-nice/"
+    ],
+    "review_summary": "游客喜欢口味多和位置方便，排队与游客化是常见提醒。",
+    "editor_note": "和老城、Cours Saleya 同日顺手吃。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "已核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fenocchio_Nice.jpg?width=1200",
+        "alt": "Fenocchio 冰淇淋店",
+        "caption": "Fenocchio 参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "官网",
+        "url": "https://www.fenocchio.fr/glacier-a-nice/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_eze_jardin_exotique",
+    "slug": "eze-jardin-exotique",
+    "name": "埃兹山城与异国植物园",
+    "name_local": "Èze Village & Jardin Exotique",
+    "city_region": "French Riviera East",
+    "categories": [
+      "海景小镇",
+      "自然景观",
+      "历史文化"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "体力要求高"
+    ],
+    "classic_level": "大众经典",
+    "short_intro": "悬崖上的中世纪村落和地中海高处视角。",
+    "editor_reason": "蔚蓝海岸东线最有“高处看海”记忆点的村落之一。",
+    "caution_reason": "坡道、石阶、人流都明显；交通和停车需规划。",
+    "suggested_duration": "2-3 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "高",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "植物园票务和开放时间待核实。",
+    "price_level": "待核实，以植物园官网为准",
+    "official_url": "https://www.jardinexotique-eze.fr/en/informations/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Jardin+Exotique+d%27%C3%88ze",
+    "source_urls": [
+      "https://www.jardinexotique-eze.fr/",
+      "https://www.jardinexotique-eze.fr/en/informations/"
+    ],
+    "review_summary": "景观极受欢迎，拥挤和爬坡是主要顾虑。",
+    "editor_note": "适合与摩纳哥或 Cap Ferrat 二选一组合，别排太满。",
+    "rainy_day_suitable": false,
+    "night_suitable": false,
+    "easy_day_suitable": false,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?eze,french-riviera",
+        "alt": "埃兹山城海景",
+        "caption": "埃兹高处看海的核心画面",
+        "source_url": "https://unsplash.com/s/photos/eze-french-riviera",
+        "sort_order": 1
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?eze,village",
+        "alt": "埃兹村落街巷",
+        "caption": "山城街巷氛围",
+        "source_url": "https://unsplash.com/s/photos/eze-village",
+        "sort_order": 2
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?cote-d-azur,sea",
+        "alt": "蔚蓝海岸海景",
+        "caption": "蔚蓝海岸海面与悬崖氛围",
+        "source_url": "https://unsplash.com/s/photos/cote-d-azur",
+        "sort_order": 3
+      }
+    ],
+    "links": [
+      {
+        "label": "植物园官网",
+        "url": "https://www.jardinexotique-eze.fr/en/informations/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 5,
+    "fit_reason": "非常符合尼斯阶段的核心目标：高处海景、欧洲度假电影感、村落街巷和植物园一起形成强记忆点。",
+    "possible_mismatch": "坡道和台阶多，旺季人多；如果天气不好，价值下降明显。",
+    "best_use": "尼斯东线主锚点；不要和太多城镇硬塞，留时间慢慢看海。",
+    "use_cases": [
+      "海景记忆点",
+      "爸妈友好但需体力",
+      "专门前往"
+    ],
+    "transport_note": "从尼斯通常需要火车/公交/打车组合；交通不算难，但上下坡和回程时间要提前规划。",
+    "verify_before": "出发前 1 周确认交通；前 1 天看天气。",
+    "content_status": "upgraded"
+  },
+  {
+    "id": "poi_villa_ephrussi",
+    "slug": "villa-ephrussi-rothschild",
+    "name": "罗斯柴尔德花园别墅",
+    "name_local": "Villa Ephrussi de Rothschild",
+    "city_region": "French Riviera East",
+    "categories": [
+      "艺术建筑",
+      "自然景观"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "需要提前预约"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "Cap Ferrat 上的海景别墅和九座主题花园。",
+    "editor_reason": "漂亮、稳定、体力可控，是东线很适合家庭的精致景点。",
+    "caution_reason": "天气影响花园体验；门票和活动安排需核实。",
+    "suggested_duration": "1.5-2.5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；建议提前查看票务。",
+    "price_level": "待核实，以官网为准",
+    "official_url": "https://www.villa-ephrussi.com/en/home",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Villa+Ephrussi+de+Rothschild",
+    "source_urls": [
+      "https://www.villa-ephrussi.com/en/home"
+    ],
+    "review_summary": "花园和海景评价稳定，适合拍照和慢游。",
+    "editor_note": "如果只能选一个东线付费景点，它很稳。",
+    "rainy_day_suitable": false,
+    "night_suitable": false,
+    "easy_day_suitable": true,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Villa_Ephrussi_de_Rothschild.jpg?width=1200",
+        "alt": "Villa Ephrussi de Rothschild",
+        "caption": "罗斯柴尔德花园别墅参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "官方网站",
+        "url": "https://www.villa-ephrussi.com/en/home",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_cap_ferrat_path",
+    "slug": "cap-ferrat-coastal-path",
+    "name": "圣让卡普费拉海岸步道",
+    "name_local": "Sentier du littoral de Saint-Jean-Cap-Ferrat",
+    "city_region": "French Riviera East",
+    "categories": [
+      "自然景观",
+      "海景小镇"
+    ],
+    "audience_tags": [
+      "适合我",
+      "体力要求高",
+      "语言门槛低"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "沿半岛海岸线步行，看海湾、岩岸和地中海植物。",
+    "editor_reason": "比热门城镇更安静，适合想要真正亲近海岸线的人。",
+    "caution_reason": "步道长度和曝晒需要认真评估，不适合轻松日完整走完。",
+    "suggested_duration": "1.5-3.5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "高",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约；天气和步道状态需核实。",
+    "price_level": "免费",
+    "official_url": "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/saint-jean-cap-ferrat/the-paths/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Saint-Jean-Cap-Ferrat+coastal+path",
+    "source_urls": [
+      "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/saint-jean-cap-ferrat/the-paths/"
+    ],
+    "review_summary": "海景和安静度很受好评，体力和防晒是关键。",
+    "editor_note": "可只走一段，不必强求环线。",
+    "rainy_day_suitable": false,
+    "night_suitable": false,
+    "easy_day_suitable": false,
+    "verification_status": "已核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-Jean-Cap-Ferrat_coastal_path.jpg?width=1200",
+        "alt": "Cap Ferrat 海岸步道",
+        "caption": "Cap Ferrat 步道参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "尼斯旅游局步道页",
+        "url": "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/saint-jean-cap-ferrat/the-paths/",
+        "link_type": "tourism"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_monaco_oceanographic",
+    "slug": "monaco-oceanographic-museum",
+    "name": "摩纳哥海洋博物馆",
+    "name_local": "Musée Océanographique de Monaco",
+    "city_region": "French Riviera East",
+    "categories": [
+      "文化活动",
+      "自然景观"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低",
+      "需要提前预约"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "建在摩纳哥岩壁上的海洋科学博物馆与水族展示。",
+    "editor_reason": "雨天、亲子、长辈都相对友好，且摩纳哥城市体验顺路。",
+    "caution_reason": "跨境到摩纳哥需要安排交通；票务和开放时间需确认。",
+    "suggested_duration": "1.5-2.5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；建议提前查官方票务。",
+    "price_level": "待核实，以官网为准",
+    "official_url": "https://musee.oceano.org/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e+Oc%C3%A9anographique+de+Monaco",
+    "source_urls": [
+      "https://musee.oceano.org/en/practical-info/",
+      "https://billetterie-oceano.tickeasy.com/en-GB"
+    ],
+    "review_summary": "建筑位置和海洋主题评价高，旺季拥挤需预期管理。",
+    "editor_note": "可与摩纳哥王宫区短逛组合。",
+    "rainy_day_suitable": true,
+    "night_suitable": false,
+    "easy_day_suitable": true,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Oceanographic_Museum_of_Monaco.jpg?width=1200",
+        "alt": "摩纳哥海洋博物馆",
+        "caption": "摩纳哥海洋博物馆参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "官方网站",
+        "url": "https://musee.oceano.org/en/",
+        "link_type": "official"
+      },
+      {
+        "label": "票务",
+        "url": "https://billetterie-oceano.tickeasy.com/en-GB",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_menton_old_town",
+    "slug": "menton-old-town",
+    "name": "芒通老城",
+    "name_local": "Vieille Ville de Menton",
+    "city_region": "French Riviera East",
+    "categories": [
+      "海景小镇",
+      "历史文化"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "靠近意大利边境的彩色海边小城，节奏比尼斯更慢。",
+    "editor_reason": "颜色、海湾和老城层次都很适合慢逛，适合不想全程打卡的人。",
+    "caution_reason": "从尼斯过去时间较长，若当天还塞摩纳哥可能偏赶。",
+    "suggested_duration": "2-4 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约。",
+    "price_level": "街区免费，消费另计",
+    "official_url": "https://www.menton-riviera-merveilles.co.uk/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Menton+old+town",
+    "source_urls": [
+      "https://www.menton-riviera-merveilles.co.uk/"
+    ],
+    "review_summary": "游客喜欢色彩和海边氛围，缺点是交通时间和坡道。",
+    "editor_note": "适合与摩纳哥二选一，避免东线过载。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Menton_old_town_France.jpg?width=1200",
+        "alt": "芒通老城",
+        "caption": "芒通老城参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "旅游局",
+        "url": "https://www.menton-riviera-merveilles.co.uk/",
+        "link_type": "tourism"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_chevre_dor",
+    "slug": "la-chevre-dor",
+    "name": "La Chèvre d’Or",
+    "name_local": "Château de La Chèvre d’Or",
+    "city_region": "French Riviera East",
+    "categories": [
+      "米其林/法餐",
+      "餐饮",
+      "特殊体验"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合我",
+      "需要提前预约"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "埃兹山城内的高端景观餐厅，主打悬崖海景与精致餐饮。",
+    "editor_reason": "如果想把埃兹升级成一次正式体验，它是很有代表性的选择。",
+    "caution_reason": "预算高、礼仪感强、预订难度较高；不适合轻松随意餐。",
+    "suggested_duration": "2.5-3.5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "中",
+    "language_barrier": "高",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；需提前订位。",
+    "price_level": "待核实，以餐厅菜单为准",
+    "official_url": "https://www.chevredor.com/la-chevre-dor-restaurant/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=La+Ch%C3%A8vre+d%27Or+Eze",
+    "source_urls": [
+      "https://www.chevredor.com/la-chevre-dor-restaurant/",
+      "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/ze/restaurant/la-chevre-d-or"
+    ],
+    "review_summary": "景观和仪式感突出，预算与口味偏好需要家庭先达成共识。",
+    "editor_note": "可列为特别餐候选，不默认入选。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": false,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Eze_and_Mediterranean_Sea.jpg?width=1200",
+        "alt": "埃兹和海景",
+        "caption": "La Chèvre d’Or 所在埃兹海景参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "餐厅官网",
+        "url": "https://www.chevredor.com/la-chevre-dor-restaurant/",
+        "link_type": "official"
+      },
+      {
+        "label": "Michelin Guide",
+        "url": "https://guide.michelin.com/us/en/provence-alpes-cote-dazur/ze/restaurant/la-chevre-d-or",
+        "link_type": "michelin"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_antibes_picasso",
+    "slug": "antibes-old-town-picasso",
+    "name": "昂蒂布老城与毕加索博物馆",
+    "name_local": "Antibes vieille ville & Musée Picasso",
+    "city_region": "French Riviera West",
+    "categories": [
+      "海景小镇",
+      "艺术建筑",
+      "历史文化"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "老城、海边城墙、市场和毕加索博物馆可以组成舒适半日。",
+    "editor_reason": "西线里最均衡：有海、有城、有艺术，也不如戛纳那么商业。",
+    "caution_reason": "博物馆开放和票务需核实；老城餐饮要筛选。",
+    "suggested_duration": "3-5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "博物馆开放和票制待核实。",
+    "price_level": "街区免费，博物馆待核实",
+    "official_url": "https://www.antibesjuanlespins.com/en/must-see-must-do/culture-and-heritage/museums/picasso-museum-2031894",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Mus%C3%A9e+Picasso+Antibes",
+    "source_urls": [
+      "https://www.antibesjuanlespins.com/en/must-see-must-do/culture-and-heritage/museums/picasso-museum-2031894",
+      "https://www.antibesjuanlespins.com/en/discover/the-must-sees/antibes-the-city-with-rampart-walls"
+    ],
+    "review_summary": "老城和海边步道稳定好评，博物馆适合艺术兴趣者。",
+    "editor_note": "可作为尼斯西线一天的主锚点。",
+    "rainy_day_suitable": true,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Antibes_old_town_and_ramparts.jpg?width=1200",
+        "alt": "昂蒂布老城和城墙",
+        "caption": "昂蒂布老城参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "毕加索博物馆",
+        "url": "https://www.antibesjuanlespins.com/en/must-see-must-do/culture-and-heritage/museums/picasso-museum-2031894",
+        "link_type": "tourism"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_cannes_croisette",
+    "slug": "cannes-croisette",
+    "name": "戛纳海滨大道与影节宫",
+    "name_local": "La Croisette & Palais des Festivals",
+    "city_region": "French Riviera West",
+    "categories": [
+      "海景小镇",
+      "文化活动",
+      "购物市集"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "大众经典",
+    "short_intro": "戛纳最标志性的海滨大道、电影节台阶和酒店立面。",
+    "editor_reason": "经典但不复杂，适合轻松走一圈感受法南度假城市的另一种面貌。",
+    "caution_reason": "商业感强，若不看电影节情结，停留不宜过长。",
+    "suggested_duration": "1.5-3 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "低",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约；活动日需核实道路和场馆安排。",
+    "price_level": "街区免费，消费另计",
+    "official_url": "https://www.cannes.com/en/explore-cannes/visit-cannes.html",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=La+Croisette+Cannes",
+    "source_urls": [
+      "https://www.cannes.com/en/explore-cannes/visit-cannes.html"
+    ],
+    "review_summary": "适合散步和打卡，商业化和奢侈品氛围明显。",
+    "editor_note": "可和圣玛格丽特岛二选一或组合。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "已核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Croisette_Cannes.jpg?width=1200",
+        "alt": "戛纳海滨大道",
+        "caption": "La Croisette 参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "戛纳旅游信息",
+        "url": "https://www.cannes.com/en/explore-cannes/visit-cannes.html",
+        "link_type": "tourism"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_saint_paul_vence",
+    "slug": "saint-paul-de-vence",
+    "name": "圣保罗德旺斯",
+    "name_local": "Saint-Paul-de-Vence",
+    "city_region": "French Riviera West",
+    "categories": [
+      "海景小镇",
+      "艺术建筑",
+      "购物市集"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "山城、画廊和石巷构成的艺术村落。",
+    "editor_reason": "比海边城市更有村落漫游感，适合喜欢慢逛和画廊的人。",
+    "caution_reason": "交通不如海边铁路方便，坡道和石路对体力有要求。",
+    "suggested_duration": "2-4 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约。",
+    "price_level": "村落免费，消费另计",
+    "official_url": "https://www.saint-pauldevence.com/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Saint-Paul-de-Vence",
+    "source_urls": [
+      "https://www.saint-pauldevence.com/en/"
+    ],
+    "review_summary": "氛围和画廊很受欢迎，旺季人流和商业化需预期。",
+    "editor_note": "可与 Fondation Maeght 组成艺术半日。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": false,
+    "verification_status": "已核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint-Paul-de-Vence_France.jpg?width=1200",
+        "alt": "圣保罗德旺斯街巷",
+        "caption": "圣保罗德旺斯参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "官方网站",
+        "url": "https://www.saint-pauldevence.com/en/",
+        "link_type": "tourism"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_fondation_maeght",
+    "slug": "fondation-maeght",
+    "name": "马格基金会美术馆",
+    "name_local": "Fondation Maeght",
+    "city_region": "French Riviera West",
+    "categories": [
+      "艺术建筑",
+      "文化活动"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合我",
+      "需要提前预约"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "圣保罗德旺斯附近的现代艺术基金会和雕塑庭院。",
+    "editor_reason": "艺术、建筑、庭院关系很好，比普通美术馆更有度假地气质。",
+    "caution_reason": "对现代艺术无感的人可能觉得绕路；交通需规划。",
+    "suggested_duration": "1.5-2.5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "中",
+    "language_barrier": "中",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；建议提前查票务。",
+    "price_level": "待核实，以官网为准",
+    "official_url": "https://www.fondation-maeght.com/visit/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Fondation+Maeght",
+    "source_urls": [
+      "https://www.fondation-maeght.com/visit/",
+      "https://www.fondation-maeght.com/about/"
+    ],
+    "review_summary": "喜欢现代艺术的人评价高，庭院和建筑是亮点。",
+    "editor_note": "和圣保罗德旺斯组合最合理。",
+    "rainy_day_suitable": true,
+    "night_suitable": false,
+    "easy_day_suitable": false,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fondation_Maeght.jpg?width=1200",
+        "alt": "马格基金会",
+        "caption": "Fondation Maeght 参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "参观信息",
+        "url": "https://www.fondation-maeght.com/visit/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_grasse_fragonard",
+    "slug": "grasse-fragonard-factory",
+    "name": "格拉斯 Fragonard 香水工厂",
+    "name_local": "Parfumerie Fragonard - Usine Historique",
+    "city_region": "French Riviera West",
+    "categories": [
+      "特殊体验",
+      "购物市集",
+      "文化活动"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合全家",
+      "语言门槛低",
+      "需要提前预约"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "在香水之城格拉斯参观老牌香水工厂和博物馆。",
+    "editor_reason": "体验型强，适合买伴手礼，也能把西线从海边切换到气味记忆。",
+    "caution_reason": "有购物导向，若对香水不感兴趣可能觉得商业。",
+    "suggested_duration": "1-2 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "低",
+    "language_barrier": "中",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；参观和工作坊需看官网预约。",
+    "price_level": "待核实；参观/工作坊价格不同",
+    "official_url": "https://usines-parfum.fragonard.com/visite/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Parfumerie+Fragonard+Usine+Historique+Grasse",
+    "source_urls": [
+      "https://www.fragonard.com/en-us/about-fragonard",
+      "https://usines-parfum.fragonard.com/visite/"
+    ],
+    "review_summary": "适合喜欢香水和伴手礼的人，商业导购感需预期。",
+    "editor_note": "如果去格拉斯，可顺带看老城但别把当天排太满。",
+    "rainy_day_suitable": true,
+    "night_suitable": false,
+    "easy_day_suitable": true,
+    "verification_status": "待核实",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Grasse_France.jpg?width=1200",
+        "alt": "格拉斯城市",
+        "caption": "格拉斯氛围参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "Fragonard 参观页",
+        "url": "https://usines-parfum.fragonard.com/visite/",
+        "link_type": "official"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_ile_sainte_marguerite",
+    "slug": "ile-sainte-marguerite",
+    "name": "圣玛格丽特岛",
+    "name_local": "Île Sainte-Marguerite",
+    "city_region": "French Riviera West",
+    "categories": [
+      "自然景观",
+      "历史文化",
+      "特殊体验"
+    ],
+    "audience_tags": [
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "戛纳外海的森林小岛，有 Fort Royal、海湾和轻徒步。",
+    "editor_reason": "比戛纳市区更有度假感，坐船本身也是体验。",
+    "caution_reason": "受天气、船班和步行距离影响；餐饮补给需提前查。",
+    "suggested_duration": "3-5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；船票和博物馆开放需临近确认。",
+    "price_level": "船票和博物馆待核实",
+    "official_url": "https://www.cannes-france.com/decouvrir-visiter/iles-de-lerins/guide-de-visite/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=%C3%8Ele+Sainte-Marguerite+Cannes",
+    "source_urls": [
+      "https://www.cannes-france.com/decouvrir-visiter/iles-de-lerins/guide-de-visite/",
+      "https://www.cannes.com/fr/index/les-iles-de-lerins/ile-sainte-marguerite.html"
+    ],
+    "review_summary": "自然和清静是亮点，船班安排和天气决定体验质量。",
+    "editor_note": "如果想给西线一天留呼吸感，它比纯戛纳更好。",
+    "rainy_day_suitable": false,
+    "night_suitable": false,
+    "easy_day_suitable": false,
+    "verification_status": "可能变化",
+    "images": [
+      {
+        "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ile_Sainte-Marguerite_Cannes.jpg?width=1200",
+        "alt": "圣玛格丽特岛",
+        "caption": "圣玛格丽特岛参考图",
+        "source_url": "https://commons.wikimedia.org/wiki/Main_Page",
+        "sort_order": 1
+      }
+    ],
+    "links": [
+      {
+        "label": "戛纳旅游局指南",
+        "url": "https://www.cannes-france.com/decouvrir-visiter/iles-de-lerins/guide-de-visite/",
+        "link_type": "tourism"
+      }
+    ],
+    "family_fit_score": 3,
+    "fit_reason": "待根据家庭偏好细化。",
+    "possible_mismatch": "待补充可能踩雷点。",
+    "best_use": "看当天路线组合决定。",
+    "use_cases": [
+      "看组合"
+    ],
+    "transport_note": "待补充具体交通说明。",
+    "verify_before": "出发前 1 周复核。",
+    "content_status": "base"
+  },
+  {
+    "id": "poi_pantheon_paris",
+    "slug": "pantheon-paris",
+    "name": "先贤祠",
+    "name_local": "Panthéon",
+    "city_region": "Paris",
+    "categories": [
+      "历史文化",
+      "艺术建筑"
+    ],
+    "audience_tags": [
+      "适合爸爸",
+      "适合妈妈",
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "法国共和国记忆空间，建筑、穹顶、傅科摆和地下墓室共同构成一种安静但重量很足的体验。",
+    "editor_reason": "非常适合你偏好的“人少但价值感强”：不像凡尔赛那样靠富丽堂皇取胜，而是靠人物、历史和空间精神留下回声。",
+    "caution_reason": "如果对法国历史人物完全无感，地下墓室部分可能略冷；需要一点背景介绍才更有感觉。",
+    "suggested_duration": "1.5-2 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "中",
+    "language_barrier": "中",
+    "reservation_required": true,
+    "latest_reservation_advice": "待核实；CMN 官方票务和穹顶开放情况需临近确认。",
+    "price_level": "待核实，以 CMN 官方为准",
+    "official_url": "https://www.paris-pantheon.fr/en/",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Panth%C3%A9on+Paris",
+    "source_urls": [
+      "https://www.paris-pantheon.fr/en/visit/practical-information",
+      "https://tickets.monuments-nationaux.fr/fr-FR/produits-seances?famille=2303374615750401409&site=2007056652440400272"
+    ],
+    "review_summary": "适合喜欢历史、建筑和安静纪念性空间的人；游客密度通常低于巴黎头部大馆。",
+    "editor_note": "建议提前给爸妈讲 3-5 个名字：雨果、居里夫人、伏尔泰、卢梭、约瑟芬贝克。",
+    "rainy_day_suitable": true,
+    "night_suitable": false,
+    "easy_day_suitable": true,
+    "verification_status": "可能变化",
+    "family_fit_score": 5,
+    "fit_reason": "高价值、人流相对可控、历史精神强，和你喜欢的沉浸式文化空间很匹配。",
+    "possible_mismatch": "需要一点法国历史背景，否则可能只觉得是庄严建筑。",
+    "best_use": "巴黎文化半日；可和卢森堡公园、拉丁区、轻松午餐组合。",
+    "use_cases": [
+      "小众但爸妈友好",
+      "人少价值高",
+      "雨天备用"
+    ],
+    "transport_note": "拉丁区地铁和步行可达，周边适合慢走；馆内台阶和地下墓室需要中等体力。",
+    "verify_before": "出发前 1 个月确认票务；前 1 周确认穹顶是否开放。",
+    "content_status": "upgraded",
+    "images": [
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?pantheon,paris",
+        "alt": "巴黎先贤祠外观",
+        "caption": "先贤祠外观与广场",
+        "source_url": "https://unsplash.com/s/photos/pantheon-paris",
+        "sort_order": 1
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?pantheon,paris,interior",
+        "alt": "先贤祠内部",
+        "caption": "内部空间和穹顶氛围",
+        "source_url": "https://unsplash.com/s/photos/pantheon-paris-interior",
+        "sort_order": 2
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?latin-quarter,paris",
+        "alt": "巴黎拉丁区",
+        "caption": "可组合的拉丁区街区氛围",
+        "source_url": "https://unsplash.com/s/photos/latin-quarter-paris",
+        "sort_order": 3
+      }
+    ],
+    "links": [
+      {
+        "label": "官方参观信息",
+        "url": "https://www.paris-pantheon.fr/en/visit/practical-information",
+        "link_type": "official"
+      },
+      {
+        "label": "CMN 官方票务",
+        "url": "https://tickets.monuments-nationaux.fr/fr-FR/produits-seances?famille=2303374615750401409&site=2007056652440400272",
+        "link_type": "official"
+      }
+    ]
+  },
+  {
+    "id": "poi_marais_life_walk",
+    "slug": "marais-life-walk",
+    "name": "玛黑区生活感散步",
+    "name_local": "Le Marais",
+    "city_region": "Paris",
+    "categories": [
+      "历史文化",
+      "购物市集",
+      "餐饮"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合我",
+      "适合全家",
+      "语言门槛低"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "把孚日广场、老宅院、独立书店、小画廊、甜点和街巷放在一起的低门槛巴黎生活感路线。",
+    "editor_reason": "这类不是单一景点，而是你喜欢的“当地生活 + 文化 + 可买小东西”的自然组合；爸妈即使不购物，也能接受街区和历史氛围。",
+    "caution_reason": "周末和热门街段人很多；如果变成无目的乱逛，爸妈可能觉得散。",
+    "suggested_duration": "2-3 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "中",
+    "language_barrier": "低",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约；若加入博物馆或餐厅需单独确认。",
+    "price_level": "街区免费，餐饮购物另计",
+    "official_url": "https://www.museepicassoparis.fr/en/marais-district",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Le+Marais+Paris",
+    "source_urls": [
+      "https://www.museepicassoparis.fr/en/marais-district",
+      "https://www.paris.fr/"
+    ],
+    "review_summary": "街区魅力来自历史建筑、画廊、店铺和餐饮密度；体验质量取决于路线选择和避开过挤街段。",
+    "editor_note": "适合设计成“有锚点的散步”：孚日广场休息 + 一个书店/画廊 + 一个 quick bite。",
+    "rainy_day_suitable": false,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "已核实",
+    "family_fit_score": 4,
+    "fit_reason": "兼顾人文、生活感和轻松餐饮，对你有兴趣，对爸妈不会太冷门。",
+    "possible_mismatch": "爸妈对原创小店兴趣一般，所以必须有历史/休息/吃东西锚点。",
+    "best_use": "巴黎景点之间的缓冲半日，不要当购物行程。",
+    "use_cases": [
+      "当地生活感",
+      "顺路 quick bite",
+      "轻松日"
+    ],
+    "transport_note": "市中心地铁密集，适合步行；难点是路线不要过散。",
+    "verify_before": "出发前 1 周确认想去的小店营业时间。",
+    "content_status": "upgraded",
+    "images": [
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?le-marais,paris",
+        "alt": "玛黑区街巷",
+        "caption": "玛黑区街巷氛围",
+        "source_url": "https://unsplash.com/s/photos/le-marais-paris",
+        "sort_order": 1
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?place-des-vosges,paris",
+        "alt": "孚日广场",
+        "caption": "适合作为休息锚点的孚日广场",
+        "source_url": "https://unsplash.com/s/photos/place-des-vosges",
+        "sort_order": 2
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?paris,bakery,street",
+        "alt": "巴黎街区甜点与咖啡",
+        "caption": "quick bite 氛围参考",
+        "source_url": "https://unsplash.com/s/photos/paris-bakery",
+        "sort_order": 3
+      }
+    ],
+    "links": [
+      {
+        "label": "Picasso Museum 玛黑区介绍",
+        "url": "https://www.museepicassoparis.fr/en/marais-district",
+        "link_type": "reference"
+      }
+    ]
+  },
+  {
+    "id": "poi_paris_creation_market",
+    "slug": "paris-creation-market",
+    "name": "巴黎创作者市场 / 跳蚤市场候选",
+    "name_local": "Marché de la création Edgar Quinet / Puces de Saint-Ouen",
+    "city_region": "Paris",
+    "categories": [
+      "购物市集",
+      "特殊体验"
+    ],
+    "audience_tags": [
+      "适合我",
+      "语言门槛低"
+    ],
+    "classic_level": "小众宝藏",
+    "short_intro": "一个偏原创艺术小物，一个偏古董旧物寻宝；适合满足你想买“不贵但别处买不到”的纪念品愿望。",
+    "editor_reason": "这类体验很有生活质感，但要控制时间：对你是高兴趣，对爸妈更像顺路观察。",
+    "caution_reason": "圣旺跳蚤市场很大且水平参差，爸妈可能疲劳；Edgar Quinet 需确认开放日。",
+    "suggested_duration": "45 分钟-2.5 小时",
+    "transport_difficulty": "中",
+    "physical_intensity": "中",
+    "language_barrier": "中",
+    "reservation_required": false,
+    "latest_reservation_advice": "无需预约；开放日和时段必须临近确认。",
+    "price_level": "免费逛，购买另计",
+    "official_url": "https://www.paris.fr/lieux/marche-de-la-creation-edgar-quinet-4511",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=March%C3%A9+de+la+cr%C3%A9ation+Edgar+Quinet+Paris",
+    "source_urls": [
+      "https://www.paris.fr/lieux/marche-de-la-creation-edgar-quinet-4511",
+      "https://www.pucesdeparissaintouen.com/",
+      "https://www.parispuces.com/"
+    ],
+    "review_summary": "创作者市场更轻，跳蚤市场更像寻宝但更耗体力；都不适合作为全家硬任务。",
+    "editor_note": "建议二选一：如果你想买艺术小物，优先 Edgar Quinet；如果想看欧洲旧物场景，才去圣旺。",
+    "rainy_day_suitable": false,
+    "night_suitable": false,
+    "easy_day_suitable": false,
+    "verification_status": "可能变化",
+    "family_fit_score": 3,
+    "fit_reason": "很符合你的个人偏好，但爸妈兴趣一般，所以只能作为可退出的轻量体验。",
+    "possible_mismatch": "如果时间过长或太像购物，爸妈可能无感。",
+    "best_use": "作为你个人兴趣的短插曲，最好旁边安排咖啡/公园/正餐出口。",
+    "use_cases": [
+      "原创纪念品",
+      "个人兴趣",
+      "quick visit"
+    ],
+    "transport_note": "Edgar Quinet 在市区更好控制；圣旺在北侧，市场大且更耗时。",
+    "verify_before": "出发前 1 周确认开放日；前 1 天确认天气。",
+    "content_status": "upgraded",
+    "images": [
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?paris,flea-market",
+        "alt": "巴黎跳蚤市场",
+        "caption": "旧物和寻宝氛围参考",
+        "source_url": "https://unsplash.com/s/photos/paris-flea-market",
+        "sort_order": 1
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?artist-market,paris",
+        "alt": "巴黎创作者市场",
+        "caption": "艺术小物市场氛围参考",
+        "source_url": "https://unsplash.com/s/photos/artist-market-paris",
+        "sort_order": 2
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?paris,vintage,market",
+        "alt": "巴黎复古市场",
+        "caption": "复古小物和摊位参考",
+        "source_url": "https://unsplash.com/s/photos/paris-vintage-market",
+        "sort_order": 3
+      }
+    ],
+    "links": [
+      {
+        "label": "Edgar Quinet 创作者市场",
+        "url": "https://www.paris.fr/lieux/marche-de-la-creation-edgar-quinet-4511",
+        "link_type": "official"
+      },
+      {
+        "label": "圣旺跳蚤市场官网",
+        "url": "https://www.pucesdeparissaintouen.com/",
+        "link_type": "official"
+      }
+    ]
+  },
+  {
+    "id": "poi_paris_opera_ballet_night",
+    "slug": "paris-opera-ballet-night",
+    "name": "巴黎歌剧院芭蕾夜",
+    "name_local": "Opéra national de Paris - L’Histoire de Manon",
+    "city_region": "Paris",
+    "categories": [
+      "文化活动",
+      "艺术建筑",
+      "特殊体验"
+    ],
+    "audience_tags": [
+      "适合妈妈",
+      "适合我",
+      "适合全家",
+      "需要提前预约"
+    ],
+    "classic_level": "高价值经典",
+    "short_intro": "在加尼叶宫看一场正式芭蕾，把建筑参观升级成真正的巴黎夜晚文化体验。",
+    "editor_reason": "这很接近你在巴塞罗那音乐宫看演出的理想结构：场景、城市文化、夜晚活动和记忆点自然结合。",
+    "caution_reason": "票价和座位差异大，演出时长较长；爸爸妈妈是否喜欢芭蕾需要投票确认。",
+    "suggested_duration": "2.5-3.5 小时",
+    "transport_difficulty": "低",
+    "physical_intensity": "低",
+    "language_barrier": "低",
+    "reservation_required": true,
+    "latest_reservation_advice": "2026 年 9 月 28 日至 10 月 30 日有 L’Histoire de Manon 档期；售票开放和余票需以巴黎歌剧院官网为准。",
+    "price_level": "待核实，以官方票务和座位为准",
+    "official_url": "https://www.operadeparis.fr/en/season-26-27/ballet/lhistoire-de-manon",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Palais+Garnier+Paris",
+    "source_urls": [
+      "https://www.operadeparis.fr/en/season-26-27/ballet/lhistoire-de-manon",
+      "https://www.operadeparis.fr/en"
+    ],
+    "review_summary": "演出型体验比单纯参观更有记忆点，但需要提前抢票并选择合理座位。",
+    "editor_note": "如果预算允许，这比只参观歌剧院更适合你们的“场景+文化”目标。",
+    "rainy_day_suitable": true,
+    "night_suitable": true,
+    "easy_day_suitable": true,
+    "verification_status": "可能变化",
+    "family_fit_score": 5,
+    "fit_reason": "强场景、强文化、夜晚记忆点，非常适合把巴黎从景点打卡变成体验。",
+    "possible_mismatch": "如果爸妈对舞剧无感或时差疲劳，可能坐不住。",
+    "best_use": "巴黎某晚核心体验；当天白天不要排太累。",
+    "use_cases": [
+      "文化+夜晚",
+      "值得预约",
+      "记忆点体验"
+    ],
+    "transport_note": "歌剧院区交通方便，演出结束后也容易打车；注意散场人流。",
+    "verify_before": "出发前 2-3 个月关注开票；出发前 1 周确认入场时间。",
+    "content_status": "upgraded",
+    "images": [
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?palais-garnier,paris",
+        "alt": "加尼叶宫夜晚",
+        "caption": "加尼叶宫建筑和夜晚氛围",
+        "source_url": "https://unsplash.com/s/photos/palais-garnier",
+        "sort_order": 1
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?ballet,opera-house",
+        "alt": "芭蕾演出氛围",
+        "caption": "芭蕾/歌剧院演出氛围参考",
+        "source_url": "https://unsplash.com/s/photos/ballet-opera",
+        "sort_order": 2
+      },
+      {
+        "image_url": "https://source.unsplash.com/1200x800/?paris,night,opera",
+        "alt": "巴黎夜晚文化活动",
+        "caption": "巴黎夜晚活动氛围参考",
+        "source_url": "https://unsplash.com/s/photos/paris-night-opera",
+        "sort_order": 3
+      }
+    ],
+    "links": [
+      {
+        "label": "巴黎歌剧院演出页",
+        "url": "https://www.operadeparis.fr/en/season-26-27/ballet/lhistoire-de-manon",
+        "link_type": "official"
+      }
+    ]
+  }
+]
